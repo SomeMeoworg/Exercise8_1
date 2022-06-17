@@ -1,0 +1,5 @@
+Shazana Binti Mohd Zainal;830101-10-5442;Deluxe;4;150.0
+Salmah Binti Ahmad;700124-04-5884;Superior;3;100.0
+Ahmad Husaini Bin Yusof;790130-01-5229;Premium;4;250.0
+Mohd Saad Bin Mohd Yaakod;780430-10-5334;Deluxe;5;200.0
+Masyitah Ain Binti Mohammad;851021-11-5826;Superior;5;130.0

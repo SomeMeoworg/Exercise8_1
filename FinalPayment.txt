@@ -1,0 +1,8 @@
+FINAL PAYMENT                                                               
+
+CUSTOMER NAME                            IC NUMBER            DEPOSIT         TOTAL           BALANCE        
+Shazana Binti Mohd Zainal                830101-10-5442       150.0           2200.0          2050.0         
+Salmah Binti Ahmad                       700124-04-5884       100.0           1350.0          1250.0         
+Ahmad Husaini Bin Yusof                  790130-01-5229       250.0           3000.0          2750.0         
+Mohd Saad Bin Mohd Yaakod                780430-10-5334       200.0           2750.0          2550.0         
+Masyitah Ain Binti Mohammad              851021-11-5826       130.0           2250.0          2120.0         

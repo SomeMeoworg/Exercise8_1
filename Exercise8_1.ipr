@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ActiveTabHighlighterConfiguration">
+    <option name="background">
+      <PersistentColor>
+        <option name="enabled" value="true" />
+        <option name="red" value="173" />
+        <option name="green" value="46" />
+        <option name="blue" value="156" />
+      </PersistentColor>
+    </option>
+  </component>
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercise8_1.iml" filepath="$PROJECT_DIR$/Exercise8_1.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="graalvm 17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
+</project>

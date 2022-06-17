@@ -1,0 +1,3 @@
+List of cookies and the customers who get the discount rate
+Cookie's Name        Total Price          Price after discount           Customer Name  
+------------------------------------------------------------------------------------------------------------------

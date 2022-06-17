@@ -1,0 +1,7 @@
+JL111111,Mudra Sdn Bhd,Semi D,1,23,120000.00
+JL111122,Salam Property,Bungalow,2,32,340000.00
+JL111121,Creative Partner,Town House,1,43,90000.00
+JL111111,Mudra Sdn Bhd,Double Storey,3,12,104000.00
+JL111134,Azlan Adik Beradik,Single Storey,3,56,89000.00
+JL111211,Nick & Rakan,Double Storey,2,45,115000.00
+JL111122,Salam Property,Semi D,1,10,110000.00

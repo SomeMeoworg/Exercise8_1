@@ -1,0 +1,5 @@
+Semi D is 33 houses
+Bungalow is 32 houses
+Semi D is 43 houses
+Double Storey is 57 houses
+Single Storey is 56 houses

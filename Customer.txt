@@ -1,0 +1,4 @@
+CUSTOMER NAME                            IC NUMBER            TYPE OF CAR          BALANCE             
+Mohd Zulkiflie Bin Samad                 770101-01-5555       Toyota Vellfire      4650.00             
+Sharifah Alya Binti Syed Ali             830302-10-5444       Honda Civic          1800.00             
+Ahmad Zharif Bin Abu                     841211-10-5339       Honda Civic          2350.00             

@@ -1,0 +1,6 @@
+CATEGORY                       TOTAL                
+
+Mathematic                     30                  
+Economy                        30                  
+Science                        50                  
+Total books available = 110

@@ -1,0 +1,5 @@
+Mohd Zulkiflie Bin Samad;770101-01-5555;7;Toyota Vellfire;600.0 
+Sharifah Alya Binti Syed Ali;830302-10-5444;4;Honda Civic;400.0
+Adam Bin Mohd Salleh;780424-03-5328;3;Proton Preve;300.0
+Noor Munirah Binti Abdullah;890228-04-5332;2;Perodua Myvi;150.0
+Ahmad Zharif Bin Abu;841211-10-5339;5;Honda Civic;400.0

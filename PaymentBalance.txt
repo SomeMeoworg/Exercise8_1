@@ -1,0 +1,7 @@
+CUSTOMER NAME                             IC NUMBER           TYPE OF CAR          NUMBER OF DAYS       DEPOSIT    TOTAL      BALANCE         
+
+Mohd Zulkiflie Bin Samad                 770101-01-5555       Toyota Vellfire      7                    600.0      5250.00    4650.00        
+Sharifah Alya Binti Syed Ali             830302-10-5444       Honda Civic          4                    400.0      2200.00    1800.00        
+Adam Bin Mohd Salleh                     780424-03-5328       Proton Preve         3                    300.0      900.00     600.00         
+Noor Munirah Binti Abdullah              890228-04-5332       Perodua Myvi         2                    150.0      500.00     350.00         
+Ahmad Zharif Bin Abu                     841211-10-5339       Honda Civic          5                    400.0      2750.00    2350.00        
